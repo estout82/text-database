@@ -1,0 +1,5 @@
+*.db
+*.txt
+*.pyc
+__pycache__
+*.json
