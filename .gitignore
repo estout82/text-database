@@ -1,5 +1,11 @@
+# data files
 *.db
 *.txt
+*.json
+
+# compiled files
 *.pyc
 __pycache__
-*.json
+
+# os files
+*.DS_Store*
